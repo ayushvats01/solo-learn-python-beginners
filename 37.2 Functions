@@ -1,0 +1,4 @@
+def welcome():
+   user=input()
+   print("Welcome"+',', user)
+welcome()
